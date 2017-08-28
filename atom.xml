@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-28T03:51:06.025Z</updated>
+  <updated>2017-08-28T04:32:55.264Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,59 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1</title>
+    <link href="http://yoursite.com/2017/08/28/1/"/>
+    <id>http://yoursite.com/2017/08/28/1/</id>
+    <published>2017-08-28T04:32:55.000Z</published>
+    <updated>2017-08-28T04:32:55.264Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/l
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="http://yoursite.com/2017/08/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>http://yoursite.com/2017/08/28/测试文章/</id>
+    <published>2017-08-28T04:21:45.000Z</published>
+    <updated>2017-08-28T04:23:52.343Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这个是大标题"><a href="#这个是大标题" class="headerlink" title="这个是大标题"></a>这个是大标题</h2><h3 id="这个是小标题"><a href="#这个是小标题" class="headerlink" title="这个是小标题"></a>这个是小标题</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;这个是大标题&quot;&gt;&lt;a href=&quot;#这个是大标题&quot; class=&quot;headerlink&quot; title=&quot;这个是大标题&quot;&gt;&lt;/a&gt;这个是大标题&lt;/h2&gt;&lt;h3 id=&quot;这个是小标题&quot;&gt;&lt;a href=&quot;#这个是小标题&quot; class=&quot;headerlink&quot; titl
+    
+    </summary>
+    
+      <category term="分类1" scheme="http://yoursite.com/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+      <category term="分类2" scheme="http://yoursite.com/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/"/>
+    
+    
+      <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+      <category term="标签2" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+  </entry>
   
   <entry>
     <title>test</title>
