@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-28T06:09:11.969Z</updated>
+  <updated>2017-08-28T06:13:35.760Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/08/28/%E6%B6%B2%E5%8C%96%E6%B0%94%E7%AB%99%E8%AE%BE%E5%A4%87%E4%BB%8B%E7%BB%8D/"/>
     <id>http://yoursite.com/2017/08/28/液化气站设备介绍/</id>
     <published>2017-08-28T05:55:24.000Z</published>
-    <updated>2017-08-28T06:09:11.969Z</updated>
+    <updated>2017-08-28T06:13:35.760Z</updated>
     
     <content type="html"><![CDATA[<h1 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h1><p>小书匠编辑器是一款专为markdown写作而设计的编辑器。</p>
 <h1 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h1><ol>
@@ -42,26 +42,6 @@
 <li><strong>typewriter scrolling</strong></li>
 <li><strong>autocomplete 和 snippets 功能</strong></li>
 </ol>
-<h1 id="离线版下载地址"><a href="#离线版下载地址" class="headerlink" title="离线版下载地址"></a>离线版下载地址</h1><p><a href="http://soft.xiaoshujiang.com" target="_blank" rel="external">http://soft.xiaoshujiang.com</a></p>
-<h1 id="WEB版访问地址"><a href="#WEB版访问地址" class="headerlink" title="WEB版访问地址"></a>WEB版访问地址</h1><p><a href="http://markdown.xiaoshujiang.com" target="_blank" rel="external">http://markdown.xiaoshujiang.com</a></p>
-<h1 id="元数据使用说明"><a href="#元数据使用说明" class="headerlink" title="元数据使用说明"></a>元数据使用说明</h1><p>语法开关元数据项，可以到设置面板里的语法扩展标签页下查看对应的元数据标识．在元数据里true时，表示当前文档强制打开该语法，false时表示强制关闭该语法．如果没有对应的元数据，则使用全局设置里的语法开关.</p>
-<p><code>preview_previewType</code>元数据，可用的值为<code>normal</code>和<code>presentation</code>．用于文章在打开时，控制是否需要系统切换对应的预览界面．如果文章里没有该项元数据，或者元数据值不正确，则系统默认使用<code>normal</code>预览界面．该元数据仅控制文章打开时初始化的界面，用户依然可以通过按钮在不同预览界面间切换．</p>
-<h1 id="浏览器存储"><a href="#浏览器存储" class="headerlink" title="浏览器存储"></a>浏览器存储</h1><p>系统对创建的文章，都会在浏览器存储上进行保存。包括像evernote/印象笔记/github/dropbox等导入的文章，也都会保存一份副本，并创建一个标识，表示跟哪些第三方存储关联。</p>
-<h2 id="标题，标签"><a href="#标题，标签" class="headerlink" title="标题，标签"></a>标题，标签</h2><p>文章标题的处理规则：如果文章内存在元数据title，则系统自动使用元数据内的title做为标题。如果文章未使用到元数据功能，用户可以通过维护文章信息按钮，修改标题。标签tags的规则也跟标题一样。</p>
-<h2 id="附件"><a href="#附件" class="headerlink" title="附件"></a>附件</h2><p>文章使用<code>./</code>做为附件的引用标识。对于<code>图片</code>，<code>音频</code>，<code>视频</code>，<code>附件</code>等链接的处理，系统只处理以<code>./</code>开头的链接，并转换成附件真实的地址进行显示。用户可以通过工具栏的<code>插入图片</code>，<code>插入音频</code>，<code>插入视频</code>，<code>插入附件</code>等按钮上传附件。</p>
-<h1 id="evernote-印象笔记"><a href="#evernote-印象笔记" class="headerlink" title="evernote/印象笔记"></a>evernote/印象笔记</h1><p>小书匠编辑器提供对evernote/印象笔记的支持，下面的使用说明默认用户已经完成了evernote/印象笔记的绑定操作，并将当前的工作平台切换到evernote/印象笔记下。</p>
-<h2 id="新建"><a href="#新建" class="headerlink" title="新建"></a>新建</h2><p>通过新建按钮后，创建的文章将自动关联到evernote/印象笔记上(<strong>注:这里仅仅是在文章上创建一个关联的标识，只有当用户保存后，才能在服务器上查看到新的笔记</strong>)</p>
-<h2 id="打开"><a href="#打开" class="headerlink" title="打开"></a>打开</h2><p>点击笔记，系统将自动把笔记导入，并将当前文章切换为导入的笔记内容。导入的文章自动与evernote/印象笔记上的笔记关联，下次再点击该笔记时，将直接从浏览器存储上打开。用户可以通过切换存储平台<code>浏览器存储</code>，来删除该缓存的文件。导入的笔记如果本地没有缓存，系统将对服务器上的笔记进行判断，如果笔记是通过小书匠编辑器进行保存，并且文章在保存后没有被操作过，则系统自动使用保存时附带的markdown附件做为文章内容，重新导入。如果笔记已经被修改，或者笔记不是通过小书匠编辑器进行保存的，系统将自动将文章转换成markdown格式。</p>
-<h2 id="保存"><a href="#保存" class="headerlink" title="保存"></a>保存</h2><p>对于新创建的文章，用户可以直接保存<code>ctrl+s</code>，系统将弹出一个选择笔记本的窗口，确认后，系统将保存当前文章到evernote/印象笔记上。（在弹出窗口上选择笔记本时，如果用户选择了笔记，系统将覆盖该笔记）</p>
-<p>对于已经存在的文章，但还没有保存到evernote/印象笔记，用户可以通过另存为<code>ctrl+shift+s</code>将当前文章保存到evernote/印象笔记上。</p>
-<p>不管是保存，还是另存为，保存成功后，系统都将自动对当前文章与evernote/印象笔记上的笔记进行关联。下次保存时<code>ctrl+s</code>系统将自动同步保存到evernote/印象笔记上。</p>
-<h2 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h2><p>系统不提供删除操作，用户需要自己到evernote/印象笔记端删除，如果本地缓存了笔记，可以通过<code>浏览器存储</code>删除缓存。</p>
-<h2 id="重命名"><a href="#重命名" class="headerlink" title="重命名"></a>重命名</h2><p>直接修改元数据title，如果文章内未使用元数据功能，可通过<code>浏览器存储</code>里的修改文章信息进行修改</p>
-<h2 id="标签管理"><a href="#标签管理" class="headerlink" title="标签管理"></a>标签管理</h2><p>系统自动通过每篇文章的元数据<code>tags</code>提取为笔记的标签。</p>
-<h2 id="附件管理"><a href="#附件管理" class="headerlink" title="附件管理"></a>附件管理</h2><p>打开时，系统自动将笔记上的附件导入到文章对应的附件管理器上。保存时，系统将根据<strong>文章内对附件的引用</strong>，将附件保存到服务器上。这里的引用包括<code>音频</code>，<code>视频</code>，<code>附件</code>，<code>图片</code>。如果文章内使用到了<code>流程图</code>，<code>序列图</code>，<code>公式</code>，<code>统计图</code>等，系统将会把这些内容转换成图片进行保存。由于evernote/印象笔记在部分终端不提供视频，音频的支持，查看保存的文章时，对应的音频，视频将以附件的形式存储。</p>
-<h2 id="待办事项"><a href="#待办事项" class="headerlink" title="待办事项"></a>待办事项</h2><p>目前系统仅同步了待办事项。</p>
-<h1 id="github-dropbox"><a href="#github-dropbox" class="headerlink" title="github/dropbox"></a>github/dropbox</h1><h2 id="新建-1"><a href="#新建-1" class="headerlink" title="新建"></a>新建</h2><p>参考<code>evernote/印象笔记</code>的<code>新建</code></p>
-<h2 id="打开-1"><a href="#打开-1" class="headerlink" title="打开"></a>打开</h2><p>参考<code>evernote/印象笔记</code>的<code>打开</code><br>不同的是，github/dropbox只能打开扩展名为<code>html</code>，<code>markdown</code>，<code>md</code>，<code>mkd</code>以及无扩展名的文件。</p>
 ]]></content>
     
     <summary type="html">
@@ -71,6 +51,10 @@
     
     </summary>
     
+      <category term="液化气站建设，项目工程建设" scheme="http://yoursite.com/categories/%E6%B6%B2%E5%8C%96%E6%B0%94%E7%AB%99%E5%BB%BA%E8%AE%BE%EF%BC%8C%E9%A1%B9%E7%9B%AE%E5%B7%A5%E7%A8%8B%E5%BB%BA%E8%AE%BE/"/>
+    
+    
+      <category term="小书匠" scheme="http://yoursite.com/tags/%E5%B0%8F%E4%B9%A6%E5%8C%A0/"/>
     
   </entry>
   
