@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-28T07:37:15.424Z</updated>
+  <updated>2017-08-28T06:19:11.966Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,143 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>视频a</title>
-    <link href="http://yoursite.com/2017/08/28/%E8%A7%86%E9%A2%91a/"/>
-    <id>http://yoursite.com/2017/08/28/视频a/</id>
-    <published>2017-08-28T07:34:27.000Z</published>
-    <updated>2017-08-28T07:37:15.424Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>视频2</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;p&gt;视频2&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="视频1" scheme="http://yoursite.com/categories/%E8%A7%86%E9%A2%911/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>视频1.1</title>
-    <link href="http://yoursite.com/2017/08/28/%E8%A7%86%E9%A2%911-1/"/>
-    <id>http://yoursite.com/2017/08/28/视频1-1/</id>
-    <published>2017-08-28T06:49:00.000Z</published>
-    <updated>2017-08-28T06:49:59.287Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>视频1资料</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;p&gt;视频1资料&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="视频1" scheme="http://yoursite.com/categories/%E8%A7%86%E9%A2%911/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>视频</title>
-    <link href="http://yoursite.com/2017/08/28/%E8%A7%86%E9%A2%91/"/>
-    <id>http://yoursite.com/2017/08/28/视频/</id>
-    <published>2017-08-28T06:35:28.000Z</published>
-    <updated>2017-08-28T06:46:45.512Z</updated>
-    
-    <content type="html"><![CDATA[<p>**2017年08月28日 14时42分57秒</p>
-<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h1 id="2"><a href="#2" class="headerlink" title="2"></a>2</h1><p><a href="http://9152.work" target="_blank" rel="external">9152免流</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;**2017年08月28日 14时42分57秒&lt;/p&gt;
-&lt;h1 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h1&gt;&lt;h1 id=&quot;2&quot;&gt;&lt;a href=&quot;#2&quot; class=&quot;headerlink&quot; tit
-    
-    </summary>
-    
-      <category term="视频1" scheme="http://yoursite.com/categories/%E8%A7%86%E9%A2%911/"/>
-    
-      <category term="视频2" scheme="http://yoursite.com/categories/%E8%A7%86%E9%A2%911/%E8%A7%86%E9%A2%912/"/>
-    
-      <category term="视频3" scheme="http://yoursite.com/categories/%E8%A7%86%E9%A2%911/%E8%A7%86%E9%A2%912/%E8%A7%86%E9%A2%913/"/>
-    
-      <category term="视频4" scheme="http://yoursite.com/categories/%E8%A7%86%E9%A2%911/%E8%A7%86%E9%A2%912/%E8%A7%86%E9%A2%913/%E8%A7%86%E9%A2%914/"/>
-    
-      <category term="视频5" scheme="http://yoursite.com/categories/%E8%A7%86%E9%A2%911/%E8%A7%86%E9%A2%912/%E8%A7%86%E9%A2%913/%E8%A7%86%E9%A2%914/%E8%A7%86%E9%A2%915/"/>
-    
-      <category term="视频6" scheme="http://yoursite.com/categories/%E8%A7%86%E9%A2%911/%E8%A7%86%E9%A2%912/%E8%A7%86%E9%A2%913/%E8%A7%86%E9%A2%914/%E8%A7%86%E9%A2%915/%E8%A7%86%E9%A2%916/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>气站验收办证</title>
-    <link href="http://yoursite.com/2017/08/28/%E6%B0%94%E7%AB%99%E9%AA%8C%E6%94%B6%E5%8A%9E%E8%AF%81/"/>
-    <id>http://yoursite.com/2017/08/28/气站验收办证/</id>
-    <published>2017-08-28T06:15:52.000Z</published>
-    <updated>2017-08-28T06:34:36.645Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="./images/1.jpg" alt="enter description here"></p>
-<h2 id="3-2-0-新功能"><a href="#3-2-0-新功能" class="headerlink" title="==3.2.0 新功能=="></a>==3.2.0 新功能==</h2><ol>
-<li>添加腾迅云 cos 云存储图床</li>
-<li>实现编辑器行高设置</li>
-<li>添加按钮动画提示效果</li>
-<li>codemirror 编辑器可以通过配置取消标题，粗体可变高度功能</li>
-</ol>
-<h2 id="3-2-0-修改"><a href="#3-2-0-修改" class="headerlink" title="3.2.0 修改"></a>3.2.0 修改</h2><ol>
-<li>修复 zip 导出文本文件变空白的问题 #433</li>
-<li>修复数据库导出失败的问题</li>
-<li>修复用户自定义css不能即时生效的问题 #438</li>
-<li>解决 mermaid卡死 #441</li>
-<li>轻量编辑器本地存储时数据被会截尾的 bug #436</li>
-<li>将轻量编辑器改名为 cledit 编辑器</li>
-<li>本地绑定下，重命名文件后，直接打开新文件</li>
-<li>调整文档列表面板宽度</li>
-<li>mermaid导出到印象笔记无图 #443</li>
-<li>codemirror overwrite 模式</li>
-<li>codemirror 编辑器 vim 模式下高亮当前行号，光标看不到的 bug</li>
-<li>pdf 打印禁用 outline 失效问题</li>
-<li>修复变量冲突引起 cjk 不生效的 bug</li>
-<li>重构预览逻辑</li>
-<li>本地文件导入失败 #450</li>
-<li>修正 evernote 的错误提示</li>
-<li>evernote api 改成通过 https 链接</li>
-<li>控制 pdf 打印宽度，动态缩放 svg 宽度</li>
-</ol>
-<h1 id="3-1-1"><a href="#3-1-1" class="headerlink" title="3.1.1"></a>3.1.1</h1><h2 id="3-1-1-修改"><a href="#3-1-1-修改" class="headerlink" title="3.1.1 修改"></a>3.1.1 修改</h2><ol>
-<li>修复 mermaid svg 文字打印时被截断的 bug</li>
-<li>修改预览字体大小</li>
-<li>解决 zip 导出失效的问题 #421</li>
-<li>暂停有道笔记的第三方存储 #377 #414 #420</li>
-</ol>
-<h1 id="3-1-0"><a href="#3-1-0" class="headerlink" title="3.1.0"></a>3.1.0</h1><h2 id="3-1-0-新功能"><a href="#3-1-0-新功能" class="headerlink" title="3.1.0 新功能"></a>3.1.0 新功能</h2><ol>
-<li>添加<a href="http://git.oschina.net" target="_blank" rel="external">码云</a> 第三方存储<br>2.添加为知V2(新同步方式)第三方存储。需要注意的是只有在为知官方上打开了新的同步方式时，才能使用该存储方式。旧的同步方式还是继续使用老的为知第三方存储。目前小书匠只是使用了新的 api,但并没有真正增量保存同步，而是覆盖同步。</li>
-<li>github, 七牛,阿里</li>
-</ol>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;./images/1.jpg&quot; alt=&quot;enter description here&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;3-2-0-新功能&quot;&gt;&lt;a href=&quot;#3-2-0-新功能&quot; class=&quot;headerlink&quot; title=&quot;==3.2.0 新功能
-    
-    </summary>
-    
-      <category term="气站验收办证" scheme="http://yoursite.com/categories/%E6%B0%94%E7%AB%99%E9%AA%8C%E6%94%B6%E5%8A%9E%E8%AF%81/"/>
-    
-    
-      <category term="验收" scheme="http://yoursite.com/tags/%E9%AA%8C%E6%94%B6/"/>
-    
-  </entry>
   
   <entry>
     <title>液化气站设备介绍</title>
@@ -192,33 +55,6 @@
     
     
       <category term="小书匠" scheme="http://yoursite.com/tags/%E5%B0%8F%E4%B9%A6%E5%8C%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2017/08/28/test/"/>
-    <id>http://yoursite.com/2017/08/28/test/</id>
-    <published>2017-08-28T05:43:02.000Z</published>
-    <updated>2017-08-28T05:43:02.645Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/l
-    
-    </summary>
-    
     
   </entry>
   
