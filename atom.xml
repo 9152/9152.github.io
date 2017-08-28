@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-28T06:38:15.534Z</updated>
+  <updated>2017-08-28T06:43:13.160Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,19 +20,23 @@
     <link href="http://yoursite.com/2017/08/28/%E8%A7%86%E9%A2%91/"/>
     <id>http://yoursite.com/2017/08/28/视频/</id>
     <published>2017-08-28T06:35:28.000Z</published>
-    <updated>2017-08-28T06:38:15.534Z</updated>
+    <updated>2017-08-28T06:43:13.160Z</updated>
     
-    <content type="html"><![CDATA[<p>234</p>
+    <content type="html"><![CDATA[<p><strong>2017年08月28日 14时42分57秒<br><em>2345648</em></strong></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;234&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;2017年08月28日 14时42分57秒&lt;br&gt;&lt;em&gt;2345648&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
     
     </summary>
     
-      <category term="【视频,视频1,视频2】" scheme="http://yoursite.com/categories/%E3%80%90%E8%A7%86%E9%A2%91-%E8%A7%86%E9%A2%911-%E8%A7%86%E9%A2%912%E3%80%91/"/>
+      <category term="视频" scheme="http://yoursite.com/categories/%E8%A7%86%E9%A2%91/"/>
+    
+      <category term="视频1" scheme="http://yoursite.com/categories/%E8%A7%86%E9%A2%91/%E8%A7%86%E9%A2%911/"/>
+    
+      <category term="视频2" scheme="http://yoursite.com/categories/%E8%A7%86%E9%A2%91/%E8%A7%86%E9%A2%911/%E8%A7%86%E9%A2%912/"/>
     
     
   </entry>
