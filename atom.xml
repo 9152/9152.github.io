@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-28T08:06:21.916Z</updated>
+  <updated>2017-08-28T08:30:36.829Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,17 +20,15 @@
     <link href="http://yoursite.com/2017/08/28/%E7%94%B5%E5%AD%90%E7%A7%A4%E4%BB%8B%E7%BB%8D/"/>
     <id>http://yoursite.com/2017/08/28/电子秤介绍/</id>
     <published>2017-08-28T07:44:26.000Z</published>
-    <updated>2017-08-28T08:06:21.916Z</updated>
+    <updated>2017-08-28T08:30:36.829Z</updated>
     
-    <content type="html"><![CDATA[<p>#图片插入方法1:<br><img src="http://a.hiphotos.baidu.com/baike/pic/item/8ad4b31c8701a18b4f7365d3942f07082938fe96.jpg" alt=""></p>
-<p>#图片插入方法2:</p>
-<p><img src="./_image/1.jpg" alt=""></p>
+    <content type="html"><![CDATA[<p>#图片插入方法1:</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;#图片插入方法1:&lt;br&gt;&lt;img src=&quot;http://a.hiphotos.baidu.com/baike/pic/item/8ad4b31c8701a18b4f7365d3942f07082938fe96.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;#图片插入方法2:&lt;
+      &lt;p&gt;#图片插入方法1:&lt;/p&gt;
+
     
     </summary>
     
