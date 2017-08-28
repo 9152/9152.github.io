@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-28T06:13:35.760Z</updated>
+  <updated>2017-08-28T06:17:07.417Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>气站验收办证</title>
+    <link href="http://yoursite.com/2017/08/28/%E6%B0%94%E7%AB%99%E9%AA%8C%E6%94%B6%E5%8A%9E%E8%AF%81/"/>
+    <id>http://yoursite.com/2017/08/28/气站验收办证/</id>
+    <published>2017-08-28T06:15:52.000Z</published>
+    <updated>2017-08-28T06:17:07.417Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="3-2-0"><a href="#3-2-0" class="headerlink" title="3.2.0"></a>3.2.0</h1><h2 id="3-2-0-新功能"><a href="#3-2-0-新功能" class="headerlink" title="3.2.0 新功能"></a>3.2.0 新功能</h2><ol>
+<li>添加腾迅云 cos 云存储图床</li>
+<li>实现编辑器行高设置</li>
+<li>添加按钮动画提示效果</li>
+<li>codemirror 编辑器可以通过配置取消标题，粗体可变高度功能</li>
+</ol>
+<h2 id="3-2-0-修改"><a href="#3-2-0-修改" class="headerlink" title="3.2.0 修改"></a>3.2.0 修改</h2><ol>
+<li>修复 zip 导出文本文件变空白的问题 #433</li>
+<li>修复数据库导出失败的问题</li>
+<li>修复用户自定义css不能即时生效的问题 #438</li>
+<li>解决 mermaid卡死 #441</li>
+<li>轻量编辑器本地存储时数据被会截尾的 bug #436</li>
+<li>将轻量编辑器改名为 cledit 编辑器</li>
+<li>本地绑定下，重命名文件后，直接打开新文件</li>
+<li>调整文档列表面板宽度</li>
+<li>mermaid导出到印象笔记无图 #443</li>
+<li>codemirror overwrite 模式</li>
+<li>codemirror 编辑器 vim 模式下高亮当前行号，光标看不到的 bug</li>
+<li>pdf 打印禁用 outline 失效问题</li>
+<li>修复变量冲突引起 cjk 不生效的 bug</li>
+<li>重构预览逻辑</li>
+<li>本地文件导入失败 #450</li>
+<li>修正 evernote 的错误提示</li>
+<li>evernote api 改成通过 https 链接</li>
+<li>控制 pdf 打印宽度，动态缩放 svg 宽度</li>
+</ol>
+<h1 id="3-1-1"><a href="#3-1-1" class="headerlink" title="3.1.1"></a>3.1.1</h1><h2 id="3-1-1-修改"><a href="#3-1-1-修改" class="headerlink" title="3.1.1 修改"></a>3.1.1 修改</h2><ol>
+<li>修复 mermaid svg 文字打印时被截断的 bug</li>
+<li>修改预览字体大小</li>
+<li>解决 zip 导出失效的问题 #421</li>
+<li>暂停有道笔记的第三方存储 #377 #414 #420</li>
+</ol>
+<h1 id="3-1-0"><a href="#3-1-0" class="headerlink" title="3.1.0"></a>3.1.0</h1><h2 id="3-1-0-新功能"><a href="#3-1-0-新功能" class="headerlink" title="3.1.0 新功能"></a>3.1.0 新功能</h2><ol>
+<li>添加<a href="http://git.oschina.net" target="_blank" rel="external">码云</a> 第三方存储<br>2.添加为知V2(新同步方式)第三方存储。需要注意的是只有在为知官方上打开了新的同步方式时，才能使用该存储方式。旧的同步方式还是继续使用老的为知第三方存储。目前小书匠只是使用了新的 api,但并没有真正增量保存同步，而是覆盖同步。</li>
+<li>github, 七牛,阿里</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;3-2-0&quot;&gt;&lt;a href=&quot;#3-2-0&quot; class=&quot;headerlink&quot; title=&quot;3.2.0&quot;&gt;&lt;/a&gt;3.2.0&lt;/h1&gt;&lt;h2 id=&quot;3-2-0-新功能&quot;&gt;&lt;a href=&quot;#3-2-0-新功能&quot; class=&quot;headerlink&quot; ti
+    
+    </summary>
+    
+      <category term="气站验收办证" scheme="http://yoursite.com/categories/%E6%B0%94%E7%AB%99%E9%AA%8C%E6%94%B6%E5%8A%9E%E8%AF%81/"/>
+    
+    
+      <category term="验收" scheme="http://yoursite.com/tags/%E9%AA%8C%E6%94%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>液化气站设备介绍</title>
