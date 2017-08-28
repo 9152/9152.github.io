@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-28T06:26:57.038Z</updated>
+  <updated>2017-08-28T06:30:53.263Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,11 +20,10 @@
     <link href="http://yoursite.com/2017/08/28/%E6%B0%94%E7%AB%99%E9%AA%8C%E6%94%B6%E5%8A%9E%E8%AF%81/"/>
     <id>http://yoursite.com/2017/08/28/气站验收办证/</id>
     <published>2017-08-28T06:15:52.000Z</published>
-    <updated>2017-08-28T06:26:57.038Z</updated>
+    <updated>2017-08-28T06:30:53.263Z</updated>
     
-    <content type="html"><![CDATA[<p>%<a href="http://player.youku.com/player.php/sid/XMTkzMDE3ODIwOA==/v.swf" target="_blank" rel="external">enter description here</a></p>
-<h2 id="3-2-0-新功能"><a href="#3-2-0-新功能" class="headerlink" title="==3.2.0 新功能=="></a>==3.2.0 新功能==</h2><p>%<a href="%3Cembed%20src=%27http://player.youku.com/player.php/sid/XMTkzMDE3ODIwOA==/v.swf%27%20allowFullScreen=%27true%27%20quality=%27high%27%20width=%27480%27%20height=%27400%27%20align=%27middle%27%20allowScriptAccess=%27always%27%20type=%27application/x-shockwave-flash%27%3E%3C/embed%3E">enter description here</a></p>
-<ol>
+    <content type="html"><![CDATA[<p><img src="./images/1.jpg" alt="enter description here" title="1"><br>%<a href="%3Ciframe%20height=498%20width=510%20src=%27http://player.youku.com/embed/XMTkzMDE3ODIwOA==%27%20frameborder=0%20%27allowfullscreen%27%3E%3C/iframe%3E">enter description here</a></p>
+<h2 id="3-2-0-新功能"><a href="#3-2-0-新功能" class="headerlink" title="==3.2.0 新功能=="></a>==3.2.0 新功能==</h2><ol>
 <li>添加腾迅云 cos 云存储图床</li>
 <li>实现编辑器行高设置</li>
 <li>添加按钮动画提示效果</li>
@@ -64,8 +63,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;%&lt;a href=&quot;http://player.youku.com/player.php/sid/XMTkzMDE3ODIwOA==/v.swf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;enter description here&lt;/a&gt;&lt;/p&gt;
-&lt;
+      &lt;p&gt;&lt;img src=&quot;./images/1.jpg&quot; alt=&quot;enter description here&quot; title=&quot;1&quot;&gt;&lt;br&gt;%&lt;a href=&quot;%3Ciframe%20height=498%20width=510%20src=%27http://player.
     
     </summary>
     
