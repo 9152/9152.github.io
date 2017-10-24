@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-01T12:57:39.655Z</updated>
+  <updated>2017-10-24T09:14:06.924Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,45 +16,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>贵州省凯里市气站</title>
-    <link href="http://yoursite.com/2017/09/01/%E6%B0%94%E7%AB%991/"/>
-    <id>http://yoursite.com/2017/09/01/气站1/</id>
-    <published>2017-09-01T12:52:29.000Z</published>
-    <updated>2017-09-01T12:57:39.655Z</updated>
+    <title>球阀</title>
+    <link href="http://yoursite.com/2017/10/24/%E7%90%83%E9%98%80/"/>
+    <id>http://yoursite.com/2017/10/24/球阀/</id>
+    <published>2017-10-24T09:10:32.000Z</published>
+    <updated>2017-10-24T09:14:06.924Z</updated>
     
-    <content type="html"><![CDATA[<p>测试3213123</p>
+    <content type="html"><![CDATA[<p>球阀分类：<br>DN15价格：进价：100<br>                     售价：150<br>                    参考说明： <a href="http://9152lpg.cn/archives/310" target="_blank" rel="external">http://9152lpg.cn/archives/310</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;测试3213123&lt;/p&gt;
-
+      &lt;p&gt;球阀分类：&lt;br&gt;DN15价格：进价：100&lt;br&gt;                     售价：150&lt;br&gt;                    参考说明： &lt;a href=&quot;http://9152lpg.cn/archives/310&quot; target=&quot;_blan
     
     </summary>
     
-      <category term="贵州省" scheme="http://yoursite.com/categories/%E8%B4%B5%E5%B7%9E%E7%9C%81/"/>
+      <category term="阀门" scheme="http://yoursite.com/categories/%E9%98%80%E9%97%A8/"/>
     
+      <category term="阀门分类" scheme="http://yoursite.com/categories/%E9%98%80%E9%97%A8/%E9%98%80%E9%97%A8%E5%88%86%E7%B1%BB/"/>
     
-  </entry>
-  
-  <entry>
-    <title>贵州省贵阳市气站</title>
-    <link href="http://yoursite.com/2017/09/01/%E8%B4%B5%E5%B7%9E%E7%9C%81%E8%B4%B5%E9%98%B3%E5%B8%82%E6%B0%94%E7%AB%99/"/>
-    <id>http://yoursite.com/2017/09/01/贵州省贵阳市气站/</id>
-    <published>2017-09-01T12:52:13.000Z</published>
-    <updated>2017-09-01T12:58:58.538Z</updated>
+      <category term="球阀分类" scheme="http://yoursite.com/categories/%E9%98%80%E9%97%A8/%E9%98%80%E9%97%A8%E5%88%86%E7%B1%BB/%E7%90%83%E9%98%80%E5%88%86%E7%B1%BB/"/>
     
-    <content type="html"><![CDATA[<p>测试去11</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;测试去11&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="贵州省" scheme="http://yoursite.com/categories/%E8%B4%B5%E5%B7%9E%E7%9C%81/"/>
+      <category term="球阀DN15" scheme="http://yoursite.com/categories/%E9%98%80%E9%97%A8/%E9%98%80%E9%97%A8%E5%88%86%E7%B1%BB/%E7%90%83%E9%98%80%E5%88%86%E7%B1%BB/%E7%90%83%E9%98%80DN15/"/>
     
     
   </entry>
