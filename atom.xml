@@ -205,6 +205,134 @@
   </entry>
   
   <entry>
+    <title>储气规模分类</title>
+    <link href="http://yoursite.com/2017/10/24/%E5%82%A8%E6%B0%94%E8%A7%84%E6%A8%A1%E5%88%86%E7%B1%BB/"/>
+    <id>http://yoursite.com/2017/10/24/储气规模分类/</id>
+    <published>2017-10-24T12:41:56.000Z</published>
+    <updated>2017-10-28T06:10:20.452Z</updated>
+    
+    <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>储罐总容积（V立方）</th>
+<th>单罐容积（V立方）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>一级</td>
+<td>5000&lt;V&lt;=1000</td>
+<td>—</td>
+</tr>
+<tr>
+<td>二级</td>
+<td>2500&lt;V&lt;=5000</td>
+<td>V&lt;=1000</td>
+</tr>
+<tr>
+<td>三级</td>
+<td>1000&lt;V&lt;=2500</td>
+<td>V&lt;=400</td>
+</tr>
+<tr>
+<td>四级</td>
+<td>500&lt;V&lt;=1000</td>
+<td>V&lt;=200</td>
+</tr>
+<tr>
+<td>五级</td>
+<td>220&lt;V&lt;=500</td>
+<td>V&lt;=100</td>
+</tr>
+<tr>
+<td>六级</td>
+<td>50&lt;V&lt;=220</td>
+<td>V&lt;=50</td>
+</tr>
+<tr>
+<td>七级</td>
+<td>V&lt;=50</td>
+<td>V&lt;=20</td>
+</tr>
+<tr>
+<td>八级</td>
+<td>V&lt;=10</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p>注：当单罐容积大于相应级别的规定，应按相对应等级提高一级的规定执行。</p>
+<h3 id="相关说明："><a href="#相关说明：" class="headerlink" title="相关说明："></a>相关说明：</h3><p>二级及以上液化石油气供应站不得与其他燃气厂站及设施合建。<br>五级及以上的液化石油气“气化站”和混气站、六级及以上的液化石油气“储存站”、储配站和灌装站，不得建在城市中心城区。</p>
+<h3 id="液化石油气“供应站”与压缩天然气“供应站”合建时，应符合下列规定："><a href="#液化石油气“供应站”与压缩天然气“供应站”合建时，应符合下列规定：" class="headerlink" title="液化石油气“供应站”与压缩天然气“供应站”合建时，应符合下列规定："></a>液化石油气“供应站”与压缩天然气“供应站”合建时，应符合下列规定：</h3><p>   1、在城市中心城区内，六级及以上液化石油气供应站不得与压缩天然气供应站合建。<br>   2、当液化石油气供应站与压缩天然气供应站合建时，其储罐与站外建筑的防火间距应按上表等级划分提高一级的规定执行，且应符合现行国家标准《压缩天然气供应站设计规范》GB51102的有关规定。</p>
+<h3 id="七级及以上液化石油气“供应站”设置液化石油气汽车加气功能时，应符合下列规定："><a href="#七级及以上液化石油气“供应站”设置液化石油气汽车加气功能时，应符合下列规定：" class="headerlink" title="七级及以上液化石油气“供应站”设置液化石油气汽车加气功能时，应符合下列规定："></a>七级及以上液化石油气“供应站”设置液化石油气汽车加气功能时，应符合下列规定：</h3><p>   1、汽车加气区域与液化石油气供应站的供应装置区应分开布置，中间应用实体围墙隔开。<br>   2、汽车加气区域平面布置及工艺设计应符合现行国家标准《汽车加油加气站设计与施工规范》GB50156的有关规定。<br>   3、汽车加气区域应设置专用的对外出入口，并应符合现行国家标准《汽车加油加气站设计与施工规范》GB50156的有关规定。<br>   4、加气机与液化石油气供应站内液化石油气储罐的防火间距不得小于本规范表5.2.10中汽车槽车装卸台柱（装卸口）与液化石油气储罐的防火间距。<br>   5、汽车加气区域独立设置的液化石油气储罐与液化石油气供应站的防火间距不应小于本规范表5.2.8的规定<br>   6、汽车加气区域内的建筑与液化石油气供应站内液化石油气储罐的防火间距不应小于本规范表5.2.10中办公用房的规定。</p>
+<h3 id="液化石油气“供应站”不得设置在地下或半地下建筑上。"><a href="#液化石油气“供应站”不得设置在地下或半地下建筑上。" class="headerlink" title="液化石油气“供应站”不得设置在地下或半地下建筑上。"></a>液化石油气“供应站”不得设置在地下或半地下建筑上。</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;级别&lt;/th&gt;
+&lt;th&gt;储罐总容积（V立方）&lt;/th&gt;
+&lt;th&gt;单罐容积（V立方）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;一级&lt;/td&gt;
+&lt;td&gt;5000&amp;lt;V&amp;lt;=1000&lt;/td&gt;
+
+    
+    </summary>
+    
+      <category term="液化气站工程设计规范" scheme="http://yoursite.com/categories/%E6%B6%B2%E5%8C%96%E6%B0%94%E7%AB%99%E5%B7%A5%E7%A8%8B%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83/"/>
+    
+      <category term="气站分类" scheme="http://yoursite.com/categories/%E6%B6%B2%E5%8C%96%E6%B0%94%E7%AB%99%E5%B7%A5%E7%A8%8B%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83/%E6%B0%94%E7%AB%99%E5%88%86%E7%B1%BB/"/>
+    
+      <category term="储气规模分类" scheme="http://yoursite.com/categories/%E6%B6%B2%E5%8C%96%E6%B0%94%E7%AB%99%E5%B7%A5%E7%A8%8B%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83/%E6%B0%94%E7%AB%99%E5%88%86%E7%B1%BB/%E5%82%A8%E6%B0%94%E8%A7%84%E6%A8%A1%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="储气规模分类" scheme="http://yoursite.com/tags/%E5%82%A8%E6%B0%94%E8%A7%84%E6%A8%A1%E5%88%86%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>气站分类</title>
+    <link href="http://yoursite.com/2017/10/24/%E6%B0%94%E7%AB%99%E5%88%86%E7%B1%BB/"/>
+    <id>http://yoursite.com/2017/10/24/气站分类/</id>
+    <published>2017-10-24T12:41:56.000Z</published>
+    <updated>2017-10-28T05:24:36.501Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="1、液化石油气“供应站”"><a href="#1、液化石油气“供应站”" class="headerlink" title="1、液化石油气“供应站”"></a>1、液化石油气“供应站”</h3><p>具有储存、装卸、灌装、气化、混气、配送等功能，以储配、气化（混气）或经营液化石油气为目的的专门场所，是液化石油气厂站的总称。 包括储存站、储配站、灌装站、气化站、混气站、瓶组气化站和瓶装供应站。</p>
+<h3 id="2、液化石油气”-储存站”"><a href="#2、液化石油气”-储存站”" class="headerlink" title="2、液化石油气” 储存站”"></a>2、液化石油气” 储存站”</h3><p>由储存和装卸设备组成，以储存为主，并向灌装站，气化站和混气站配送液化石油气为主要功能的专门场所。</p>
+<h3 id="3、液化石油气“储配站”"><a href="#3、液化石油气“储配站”" class="headerlink" title="3、液化石油气“储配站”"></a>3、液化石油气“储配站”</h3><p>由储存、灌装和装卸设备组成，以储存液化石油气为主要功能，兼具液化石油气灌装作业为辅助功能的专门场所。</p>
+<h3 id="4、液化石油气“灌装站”"><a href="#4、液化石油气“灌装站”" class="headerlink" title="4、液化石油气“灌装站”"></a>4、液化石油气“灌装站”</h3><p>由灌装、储存和装卸设备组成，以液化石油气灌装作业为主要功能的专门场所。</p>
+<h3 id="5、液化石油气“气化站”"><a href="#5、液化石油气“气化站”" class="headerlink" title="5、液化石油气“气化站”"></a>5、液化石油气“气化站”</h3><p>由储存和气化设备组成，以将液态液化石油气转变为气态液化石油气为主要功能，并通过管道向用户供气的专门场所。</p>
+<h3 id="6、液化石油气“混气站”"><a href="#6、液化石油气“混气站”" class="headerlink" title="6、液化石油气“混气站”"></a>6、液化石油气“混气站”</h3><p>由储存、气化和混气设备组成，将液态液化石油气转换为气态液化石油气后，与空气或气态燃气按一定比例混合配制成混合气，经稳压后通过管道向用户供气的专门场所。</p>
+<h3 id="7、液化石油气“瓶组气化站”"><a href="#7、液化石油气“瓶组气化站”" class="headerlink" title="7、液化石油气“瓶组气化站”"></a>7、液化石油气“瓶组气化站”</h3><p>配置2个或以上液化石油气钢瓶，采用自然或强制气化方式将液态液化石油气转换为气态液化石油气后，经稳压后通过管道向用户供气的专门场所。</p>
+<h3 id="8、液化石油气“瓶装供应站”"><a href="#8、液化石油气“瓶装供应站”" class="headerlink" title="8、液化石油气“瓶装供应站”"></a>8、液化石油气“瓶装供应站”</h3><p>经营和储存瓶装液化石油气的专门场所。</p>
+<h3 id="9、全压力式储罐"><a href="#9、全压力式储罐" class="headerlink" title="9、全压力式储罐"></a>9、全压力式储罐</h3><p>常温状态下盛装液化石油气的储罐，其特点是储存压力随环境温度变化。</p>
+<h3 id="10、半冷冻式储罐"><a href="#10、半冷冻式储罐" class="headerlink" title="10、半冷冻式储罐"></a>10、半冷冻式储罐</h3><p>在较低温度和较低压力下盛装液化石油气的储罐。</p>
+<h3 id="11、全冷冻式储罐"><a href="#11、全冷冻式储罐" class="headerlink" title="11、全冷冻式储罐"></a>11、全冷冻式储罐</h3><p>在低温和常压下盛装液化石油的储罐。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;1、液化石油气“供应站”&quot;&gt;&lt;a href=&quot;#1、液化石油气“供应站”&quot; class=&quot;headerlink&quot; title=&quot;1、液化石油气“供应站”&quot;&gt;&lt;/a&gt;1、液化石油气“供应站”&lt;/h3&gt;&lt;p&gt;具有储存、装卸、灌装、气化、混气、配送等功能，以储配、气化（
+    
+    </summary>
+    
+      <category term="液化气站工程设计规范" scheme="http://yoursite.com/categories/%E6%B6%B2%E5%8C%96%E6%B0%94%E7%AB%99%E5%B7%A5%E7%A8%8B%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83/"/>
+    
+      <category term="气站分类" scheme="http://yoursite.com/categories/%E6%B6%B2%E5%8C%96%E6%B0%94%E7%AB%99%E5%B7%A5%E7%A8%8B%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83/%E6%B0%94%E7%AB%99%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="气站分类" scheme="http://yoursite.com/tags/%E6%B0%94%E7%AB%99%E5%88%86%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Y型过滤器</title>
     <link href="http://yoursite.com/2017/10/24/Y%E5%9E%8B%E8%BF%87%E6%BB%A4%E5%99%A8/"/>
     <id>http://yoursite.com/2017/10/24/Y型过滤器/</id>
@@ -593,6 +721,66 @@
   </entry>
   
   <entry>
+    <title>气动紧急切断阀QDQ421-25/40</title>
+    <link href="http://yoursite.com/2017/10/24/%E6%B0%94%E5%8A%A8%E7%B4%A7%E6%80%A5%E5%88%87%E6%96%AD%E9%98%80QDY421F-25-40/"/>
+    <id>http://yoursite.com/2017/10/24/气动紧急切断阀QDY421F-25-40/</id>
+    <published>2017-10-24T10:53:54.000Z</published>
+    <updated>2017-10-24T13:32:50.114Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="紧急切断阀分为：液动、气动"><a href="#紧急切断阀分为：液动、气动" class="headerlink" title="紧急切断阀分为：液动、气动"></a>紧急切断阀分为：液动、气动</h3><table>
+<thead>
+<tr>
+<th>气动切断阀QDQ421-25/40</th>
+<th>进货价格</th>
+<th>出售价格</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>液动切断阀DN25</td>
+<td>540</td>
+<td>700</td>
+<td></td>
+</tr>
+<tr>
+<td>液动切断阀DN40</td>
+<td>700</td>
+<td>900</td>
+<td></td>
+</tr>
+<tr>
+<td>液动切断阀DN50</td>
+<td>780</td>
+<td>1280</td>
+<td></td>
+</tr>
+<tr>
+<td>液动切断阀DN80</td>
+<td>1080</td>
+<td>1580</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;紧急切断阀分为：液动、气动&quot;&gt;&lt;a href=&quot;#紧急切断阀分为：液动、气动&quot; class=&quot;headerlink&quot; title=&quot;紧急切断阀分为：液动、气动&quot;&gt;&lt;/a&gt;紧急切断阀分为：液动、气动&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;气动切断
+    
+    </summary>
+    
+      <category term="阀门分类" scheme="http://yoursite.com/categories/%E9%98%80%E9%97%A8%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="紧急切断阀" scheme="http://yoursite.com/tags/%E7%B4%A7%E6%80%A5%E5%88%87%E6%96%AD%E9%98%80/"/>
+    
+  </entry>
+  
+  <entry>
     <title>液动紧急切断阀QDY42F-25/40</title>
     <link href="http://yoursite.com/2017/10/24/%E6%B6%B2%E5%8A%A8%E7%B4%A7%E6%80%A5%E5%88%87%E6%96%AD%E9%98%80QDY421F-25-40/"/>
     <id>http://yoursite.com/2017/10/24/液动紧急切断阀QDY421F-25-40/</id>
@@ -691,66 +879,6 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;液动切断
-    
-    </summary>
-    
-      <category term="阀门分类" scheme="http://yoursite.com/categories/%E9%98%80%E9%97%A8%E5%88%86%E7%B1%BB/"/>
-    
-    
-      <category term="紧急切断阀" scheme="http://yoursite.com/tags/%E7%B4%A7%E6%80%A5%E5%88%87%E6%96%AD%E9%98%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>气动紧急切断阀QDQ421-25/40</title>
-    <link href="http://yoursite.com/2017/10/24/%E6%B0%94%E5%8A%A8%E7%B4%A7%E6%80%A5%E5%88%87%E6%96%AD%E9%98%80QDY421F-25-40/"/>
-    <id>http://yoursite.com/2017/10/24/气动紧急切断阀QDY421F-25-40/</id>
-    <published>2017-10-24T10:53:54.000Z</published>
-    <updated>2017-10-24T13:32:50.114Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="紧急切断阀分为：液动、气动"><a href="#紧急切断阀分为：液动、气动" class="headerlink" title="紧急切断阀分为：液动、气动"></a>紧急切断阀分为：液动、气动</h3><table>
-<thead>
-<tr>
-<th>气动切断阀QDQ421-25/40</th>
-<th>进货价格</th>
-<th>出售价格</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>液动切断阀DN25</td>
-<td>540</td>
-<td>700</td>
-<td></td>
-</tr>
-<tr>
-<td>液动切断阀DN40</td>
-<td>700</td>
-<td>900</td>
-<td></td>
-</tr>
-<tr>
-<td>液动切断阀DN50</td>
-<td>780</td>
-<td>1280</td>
-<td></td>
-</tr>
-<tr>
-<td>液动切断阀DN80</td>
-<td>1080</td>
-<td>1580</td>
-</tr>
-</tbody>
-</table>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;紧急切断阀分为：液动、气动&quot;&gt;&lt;a href=&quot;#紧急切断阀分为：液动、气动&quot; class=&quot;headerlink&quot; title=&quot;紧急切断阀分为：液动、气动&quot;&gt;&lt;/a&gt;紧急切断阀分为：液动、气动&lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;气动切断
     
     </summary>
     
@@ -1097,207 +1225,6 @@
   </entry>
   
   <entry>
-    <title>磁性翻版式液位计</title>
-    <link href="http://yoursite.com/2017/10/24/%E7%A3%81%E6%80%A7%E7%BF%BB%E7%89%88%E5%BC%8F%E6%B6%B2%E4%BD%8D%E8%AE%A1/"/>
-    <id>http://yoursite.com/2017/10/24/磁性翻版式液位计/</id>
-    <published>2017-10-24T09:29:16.000Z</published>
-    <updated>2017-10-24T13:16:01.881Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="磁性翻版式液位计"><a href="#磁性翻版式液位计" class="headerlink" title="磁性翻版式液位计"></a>磁性翻版式液位计</h3><table>
-<thead>
-<tr>
-<th>磁性翻版式液位计</th>
-<th>进货价格</th>
-<th>出售价格</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>L=500mm</td>
-<td></td>
-<td>600</td>
-<td></td>
-</tr>
-<tr>
-<td>L=600mm</td>
-<td></td>
-<td>800</td>
-<td></td>
-</tr>
-<tr>
-<td>L=800mm</td>
-<td></td>
-<td>100</td>
-<td></td>
-</tr>
-<tr>
-<td>L=1000mm</td>
-<td></td>
-<td>1050</td>
-<td></td>
-</tr>
-<tr>
-<td>L=1100mm</td>
-<td></td>
-<td>1100</td>
-<td></td>
-</tr>
-<tr>
-<td>L=1200mm</td>
-<td></td>
-<td>1100</td>
-<td></td>
-</tr>
-<tr>
-<td>L=1400mm</td>
-<td></td>
-<td>1500</td>
-<td></td>
-</tr>
-<tr>
-<td>L=1600mm</td>
-<td></td>
-<td>1500</td>
-<td></td>
-</tr>
-<tr>
-<td>L=1700mm</td>
-<td></td>
-<td>1500</td>
-<td></td>
-</tr>
-<tr>
-<td>L=2000mm</td>
-<td></td>
-<td>1700</td>
-<td></td>
-</tr>
-<tr>
-<td>L=2400mm</td>
-<td></td>
-<td>1700</td>
-<td></td>
-</tr>
-<tr>
-<td>L=2600mm</td>
-<td></td>
-<td>2200</td>
-<td></td>
-</tr>
-<tr>
-<td>L=2800mm</td>
-<td></td>
-<td>2400</td>
-</tr>
-</tbody>
-</table>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;磁性翻版式液位计&quot;&gt;&lt;a href=&quot;#磁性翻版式液位计&quot; class=&quot;headerlink&quot; title=&quot;磁性翻版式液位计&quot;&gt;&lt;/a&gt;磁性翻版式液位计&lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;磁性翻版式液位计&lt;/th&gt;
-&lt;th&gt;进货价格&lt;/
-    
-    </summary>
-    
-      <category term="气站设备" scheme="http://yoursite.com/categories/%E6%B0%94%E7%AB%99%E8%AE%BE%E5%A4%87/"/>
-    
-    
-      <category term="磁性翻版式液位计" scheme="http://yoursite.com/tags/%E7%A3%81%E6%80%A7%E7%BF%BB%E7%89%88%E5%BC%8F%E6%B6%B2%E4%BD%8D%E8%AE%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>气体报警器</title>
-    <link href="http://yoursite.com/2017/10/24/%E6%B0%94%E4%BD%93%E6%8A%A5%E8%AD%A6%E5%99%A8/"/>
-    <id>http://yoursite.com/2017/10/24/气体报警器/</id>
-    <published>2017-10-24T09:29:16.000Z</published>
-    <updated>2017-10-24T13:06:33.459Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="气体报警器"><a href="#气体报警器" class="headerlink" title="气体报警器"></a>气体报警器</h3><table>
-<thead>
-<tr>
-<th>气体报警器</th>
-<th>进货价格</th>
-<th>出售价格</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1路声光数显</td>
-<td></td>
-<td>1200</td>
-<td></td>
-</tr>
-<tr>
-<td>2路声光数显</td>
-<td></td>
-<td>2400</td>
-<td></td>
-</tr>
-<tr>
-<td>3路声光数显</td>
-<td></td>
-<td>3600</td>
-<td></td>
-</tr>
-<tr>
-<td>4路声光数显</td>
-<td></td>
-<td>4800</td>
-<td></td>
-</tr>
-<tr>
-<td>5路声光数显</td>
-<td></td>
-<td>6000</td>
-<td></td>
-</tr>
-<tr>
-<td>6路声光数显</td>
-<td></td>
-<td>7200</td>
-<td></td>
-</tr>
-<tr>
-<td>7路声光数显</td>
-<td></td>
-<td>8400</td>
-<td></td>
-</tr>
-<tr>
-<td>8路声光数显</td>
-<td></td>
-<td>9600</td>
-</tr>
-</tbody>
-</table>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;气体报警器&quot;&gt;&lt;a href=&quot;#气体报警器&quot; class=&quot;headerlink&quot; title=&quot;气体报警器&quot;&gt;&lt;/a&gt;气体报警器&lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;气体报警器&lt;/th&gt;
-&lt;th&gt;进货价格&lt;/th&gt;
-&lt;th&gt;出售价格&lt;/t
-    
-    </summary>
-    
-      <category term="气站设备" scheme="http://yoursite.com/categories/%E6%B0%94%E7%AB%99%E8%AE%BE%E5%A4%87/"/>
-    
-    
-      <category term="气体报警器" scheme="http://yoursite.com/tags/%E6%B0%94%E4%BD%93%E6%8A%A5%E8%AD%A6%E5%99%A8/"/>
-    
-  </entry>
-  
-  <entry>
     <title>卸车软管</title>
     <link href="http://yoursite.com/2017/10/24/%E5%8D%B8%E8%BD%A6%E8%BD%AF%E7%AE%A1/"/>
     <id>http://yoursite.com/2017/10/24/卸车软管/</id>
@@ -1577,16 +1504,16 @@
   </entry>
   
   <entry>
-    <title>充气枪胶管</title>
-    <link href="http://yoursite.com/2017/10/24/%E5%85%85%E6%B0%94%E6%9E%AA%E8%83%B6%E7%AE%A1/"/>
-    <id>http://yoursite.com/2017/10/24/充气枪胶管/</id>
+    <title>盲板</title>
+    <link href="http://yoursite.com/2017/10/24/%E7%9B%B2%E6%9D%BF/"/>
+    <id>http://yoursite.com/2017/10/24/盲板/</id>
     <published>2017-10-24T09:29:16.000Z</published>
-    <updated>2017-10-24T13:18:58.978Z</updated>
+    <updated>2017-10-24T12:59:57.841Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="充气枪胶管"><a href="#充气枪胶管" class="headerlink" title="充气枪胶管"></a>充气枪胶管</h3><table>
+    <content type="html"><![CDATA[<h3 id="盲板"><a href="#盲板" class="headerlink" title="盲板"></a>盲板</h3><table>
 <thead>
 <tr>
-<th>充气枪胶管</th>
+<th>盲板</th>
 <th>进货价格</th>
 <th>出售价格</th>
 <th></th>
@@ -1594,21 +1521,58 @@
 </thead>
 <tbody>
 <tr>
-<td>1.5米</td>
+<td>平面DN15</td>
+<td></td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>平面DN20</td>
+<td></td>
+<td>17</td>
+<td></td>
+</tr>
+<tr>
+<td>平面DN25</td>
+<td></td>
+<td>18</td>
+<td></td>
+</tr>
+<tr>
+<td>平面DN32</td>
+<td></td>
+<td>22</td>
+<td></td>
+</tr>
+<tr>
+<td>平面DN40</td>
+<td></td>
+<td>24</td>
+<td></td>
+</tr>
+<tr>
+<td>平面DN50</td>
+<td></td>
+<td>28</td>
+<td></td>
+</tr>
+<tr>
+<td>平面DN65</td>
+<td></td>
+<td>35</td>
+<td></td>
+</tr>
+<tr>
+<td>平面DN80</td>
 <td></td>
 <td>45</td>
 <td></td>
 </tr>
 <tr>
-<td>2.0米</td>
+<td>平面DN100</td>
 <td></td>
-<td>50</td>
+<td>65</td>
 <td></td>
-</tr>
-<tr>
-<td>3.0米</td>
-<td></td>
-<td>70</td>
 </tr>
 </tbody>
 </table>
@@ -1616,19 +1580,21 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;充气枪胶管&quot;&gt;&lt;a href=&quot;#充气枪胶管&quot; class=&quot;headerlink&quot; title=&quot;充气枪胶管&quot;&gt;&lt;/a&gt;充气枪胶管&lt;/h3&gt;&lt;table&gt;
+      &lt;h3 id=&quot;盲板&quot;&gt;&lt;a href=&quot;#盲板&quot; class=&quot;headerlink&quot; title=&quot;盲板&quot;&gt;&lt;/a&gt;盲板&lt;/h3&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;充气枪胶管&lt;/th&gt;
+&lt;th&gt;盲板&lt;/th&gt;
 &lt;th&gt;进货价格&lt;/th&gt;
-&lt;th&gt;出售价格&lt;/t
+&lt;th&gt;出售价格&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/
     
     </summary>
     
-      <category term="气站设备" scheme="http://yoursite.com/categories/%E6%B0%94%E7%AB%99%E8%AE%BE%E5%A4%87/"/>
+      <category term="阀门分类" scheme="http://yoursite.com/categories/%E9%98%80%E9%97%A8%E5%88%86%E7%B1%BB/"/>
     
     
-      <category term="充气枪胶管" scheme="http://yoursite.com/tags/%E5%85%85%E6%B0%94%E6%9E%AA%E8%83%B6%E7%AE%A1/"/>
+      <category term="盲板" scheme="http://yoursite.com/tags/%E7%9B%B2%E6%9D%BF/"/>
     
   </entry>
   
