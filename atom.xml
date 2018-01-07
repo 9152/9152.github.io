@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-07T06:15:09.212Z</updated>
+  <updated>2018-01-07T06:34:41.205Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,9 @@
     <link href="http://yoursite.com/2017/10/24/Y%E5%9E%8B%E8%BF%87%E6%BB%A4%E5%99%A8/"/>
     <id>http://yoursite.com/2017/10/24/Y型过滤器/</id>
     <published>2017-10-24T12:41:56.000Z</published>
-    <updated>2018-01-07T06:15:09.212Z</updated>
+    <updated>2018-01-07T06:34:41.205Z</updated>
     
-    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="Y型过滤器"><a href="#Y型过滤器" class="headerlink" title="Y型过滤器"></a>Y型过滤器</h3><h3 id="视频播放地址（优酷测试）"><a href="#视频播放地址（优酷测试）" class="headerlink" title="视频播放地址（优酷测试）"></a>视频播放地址（优酷测试）</h3><p><iframe height="498" width="510" src="http://player.youku.com/embed/XMzI4OTA2NTM5Ng==" frameborder="0" 'allowfullscreen'=""></iframe><br><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"http://v.youku.com/v_show/id_XMzI4OTA2NTM5Ng==.html","pic":"http://home.ustc.edu.cn/~mmmwhy/GEM.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script></p>
-]]></content>
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="Y型过滤器"><a href="#Y型过滤器" class="headerlink" title="Y型过滤器"></a>Y型过滤器</h3><h3 id="视频播放地址（优酷测试11111）"><a href="#视频播放地址（优酷测试11111）" class="headerlink" title="视频播放地址（优酷测试11111）"></a>视频播放地址（优酷测试11111）</h3><embed src="http://player.youku.com/player.php/sid/XMjY2MTA2MDcyOA==/v.swf" allowfullscreen="true" quality="high" width="480" height="400" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash">]]></content>
     
     <summary type="html">
     
