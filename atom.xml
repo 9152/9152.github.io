@@ -42,6 +42,32 @@
   </entry>
   
   <entry>
+    <title>测试文章标题</title>
+    <link href="http://yoursite.com/2018/01/14/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>http://yoursite.com/2018/01/14/测试文章/</id>
+    <published>2018-01-14T06:01:13.000Z</published>
+    <updated>2018-01-14T06:24:23.695Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>测试</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;p&gt;测试&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="测试文章一级类目" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E4%B8%80%E7%BA%A7%E7%B1%BB%E7%9B%AE/"/>
+    
+      <category term="测试文章二级类目" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E4%B8%80%E7%BA%A7%E7%B1%BB%E7%9B%AE/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E4%BA%8C%E7%BA%A7%E7%B1%BB%E7%9B%AE/"/>
+    
+    
+      <category term="测试文章标签" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Y型过滤器</title>
     <link href="http://yoursite.com/2017/10/24/Y%E5%9E%8B%E8%BF%87%E6%BB%A4%E5%99%A8/"/>
     <id>http://yoursite.com/2017/10/24/Y型过滤器/</id>
