@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-07T06:36:44.845Z</updated>
+  <updated>2018-01-14T06:02:12.358Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,13 +16,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>E4A手册</title>
+    <link href="http://yoursite.com/2018/01/14/E4A%E6%89%8B%E5%86%8C/"/>
+    <id>http://yoursite.com/2018/01/14/E4A手册/</id>
+    <published>2018-01-14T06:01:13.000Z</published>
+    <updated>2018-01-14T06:02:12.358Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>123456</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;p&gt;123456&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="E4A学习手册" scheme="http://yoursite.com/categories/E4A%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C/"/>
+    
+      <category term="运算符" scheme="http://yoursite.com/categories/E4A%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C/%E8%BF%90%E7%AE%97%E7%AC%A6/"/>
+    
+    
+      <category term="E4A手册" scheme="http://yoursite.com/tags/E4A%E6%89%8B%E5%86%8C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Y型过滤器</title>
     <link href="http://yoursite.com/2017/10/24/Y%E5%9E%8B%E8%BF%87%E6%BB%A4%E5%99%A8/"/>
     <id>http://yoursite.com/2017/10/24/Y型过滤器/</id>
     <published>2017-10-24T12:41:56.000Z</published>
-    <updated>2018-01-07T06:36:44.845Z</updated>
+    <updated>2018-01-07T06:41:34.525Z</updated>
     
-    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="Y型过滤器"><a href="#Y型过滤器" class="headerlink" title="Y型过滤器"></a>Y型过滤器</h3><h3 id="视频播放地址（123）"><a href="#视频播放地址（123）" class="headerlink" title="视频播放地址（123）"></a>视频播放地址（123）</h3><embed src="http://player.youku.com/player.php/sid/XMjY2MTA2MDcyOA==/v.swf" allowfullscreen="true" quality="high" width="480" height="400" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash">]]></content>
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h3 id="Y型过滤器"><a href="#Y型过滤器" class="headerlink" title="Y型过滤器"></a>Y型过滤器</h3><h3 id="视频播放地址"><a href="#视频播放地址" class="headerlink" title="视频播放地址"></a>视频播放地址</h3><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><p>no url specified, no dplayer _(:3」∠)_</p>
+]]></content>
     
     <summary type="html">
     
