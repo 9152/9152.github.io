@@ -71,14 +71,14 @@
     <link href="http://yoursite.com/2017/10/24/Y%E5%9E%8B%E8%BF%87%E6%BB%A4%E5%99%A8/"/>
     <id>http://yoursite.com/2017/10/24/Y型过滤器/</id>
     <published>2017-10-24T12:41:56.000Z</published>
-    <updated>2018-01-18T07:23:32.874Z</updated>
+    <updated>2018-01-18T07:42:41.751Z</updated>
     
-    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h2 id="质量保证体系"><a href="#质量保证体系" class="headerlink" title="==质量保证体系=="></a><strong>==质量保证体系==</strong></h2><p> 特种设备制造、安装改造、<a href="http://9152lpg.cn" target="_blank" rel="external">==维修单位法定代表人==</a></p>
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h1 id="质量保证体系"><a href="#质量保证体系" class="headerlink" title="==质量保证体系=="></a>==质量保证体系==</h1><p> 特种设备制造、安装改造<br> <font color="#A52A2A" size="3">我是红色字体</font><br> <font color="#FF8C00" size="5">我是黄色字体</font><br>  <font color="#8B008B" size="6">我是黄色字体</font></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h2 id=&quot;质量保证体系&quot;&gt;&lt;a href=&quot;#质量保证体系&quot; class=&quot;headerlink&quot; title=&quot;==质量保证体系==&quot;&gt;&lt;/a&gt;&lt;strong&gt;==质量保证
+      &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;质量保证体系&quot;&gt;&lt;a href=&quot;#质量保证体系&quot; class=&quot;headerlink&quot; title=&quot;==质量保证体系==&quot;&gt;&lt;/a&gt;==质量保证体系==&lt;/h1
     
     </summary>
     
