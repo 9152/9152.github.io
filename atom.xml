@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-14T06:02:12.358Z</updated>
+  <updated>2018-05-31T03:32:38.330Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,15 +20,13 @@
     <link href="http://yoursite.com/2018/01/14/E4A%E6%89%8B%E5%86%8C/"/>
     <id>http://yoursite.com/2018/01/14/E4A手册/</id>
     <published>2018-01-14T06:01:13.000Z</published>
-    <updated>2018-01-14T06:02:12.358Z</updated>
+    <updated>2018-05-31T03:32:38.330Z</updated>
     
-    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>123456</p>
-]]></content>
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><h1 id="陆玉"><a href="#陆玉" class="headerlink" title="陆玉"></a>陆玉</h1>]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;p&gt;123456&lt;/p&gt;
-
+      &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;h1 id=&quot;陆玉&quot;&gt;&lt;a 
     
     </summary>
     
